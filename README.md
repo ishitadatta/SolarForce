@@ -19,7 +19,7 @@ Software used: Figma
 ![SolarForce](Overview.png)
 
 #### Links for the submission:
-- Public Link To The Design File : https://www.figma.com/file/69qkJ6EADAYAS4gOCM7aP2/Solar-Force?node-id=0%3A1
+- View the UI Design here : https://www.behance.net/gallery/101767233/Solar-Force
 - Public Link To The Prototype for Demo : https://www.figma.com/proto/69qkJ6EADAYAS4gOCM7aP2/Solar-Force?node-id=5%3A79&viewport=221%2C197%2C0.07909148931503296&scaling=scale-down
 - (To view gifs and other animations included in the Figma project please view the Project Prototype)
   
