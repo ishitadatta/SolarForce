@@ -36,5 +36,5 @@ Language Used: Dart (Flutter)
 - The apk of the application is in the root directroy of this repository
 - Source code of the entire application is in the root directory
 ---
- ##### Developed For AppSprint '20.
-_This project won the 'Best UI Design' award and received the highest overall app rating of 3.81_
+#### Developed For AppSprint '20.
+###### _This project won the 'Best UI Design' award and received the highest overall app rating of 3.81_
