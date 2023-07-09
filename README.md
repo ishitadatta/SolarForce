@@ -6,7 +6,6 @@ Team Solar Force
 
 ### Team Members : 
 - Shloka Lakka Reddy
-- Nidhi Raniyer
 - Ishita Datta
 
 ## Idea
